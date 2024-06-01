@@ -37,5 +37,4 @@
 
    ```sh
    docker compose -f docker-compose build
-   ```sh
    docker compose -f docker-compose up
