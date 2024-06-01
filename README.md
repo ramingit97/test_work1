@@ -22,3 +22,7 @@
 
    ```sh
    cd client
+2. Запустите команду:
+
+   ```sh
+   npm run start
